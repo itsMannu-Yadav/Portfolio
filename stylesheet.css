@@ -723,7 +723,7 @@ form textarea{
 
 .red-text {
         color: red;
-	font-weight: bold;
+	font-weight: 900; /* Extra bold */
     }
 
 .top{
