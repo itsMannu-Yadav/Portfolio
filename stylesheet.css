@@ -720,6 +720,11 @@ form textarea{
     font-weight: 300;
     margin-top: 70px;
 }
+
+.red-text {
+        color: red;
+    }
+
 .top{
     position: fixed;
     bottom: 2.1rem;
